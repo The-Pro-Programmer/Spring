@@ -1,0 +1,12 @@
+Interview Questions
+
+1. What is difference between @Controller and @RestController
+@Controller
+	Annotate classic controllers
+	@Controller is specialization of @Component Class
+	Generally mapped with @RequestMapping annotation
+@RestController
+	Included @Controller and @ResponseBody 
+
+2. Explain briefly Spring Annotations
+@Component
